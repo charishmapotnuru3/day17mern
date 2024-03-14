@@ -1,0 +1,23 @@
+*what is class?
+-->A class is a collection of objects. A class contains the blueprints or the prototype from which the objects are being created. It is a logical entity that contains some attributes and methods. 
+  - Classes are created by keyword class.
+  -Attributes are the variables that belong to a class.
+  -Attributes are always public and can be accessed using the dot (.) operator. Eg.: Myclass.Myattribute
+ Syntax:
+         class ClassName:
+           Statement-1
+              .
+              .
+           Statement-N
+
+*what is object?
+-->The object is an entity that has a state and behavior associated with it. It may be any real-world object. Integers, strings, floating-point numbers, arrays, and dictionaries, are all objects. 
+   More over, any single integer or any single string is an object.
+
+   -State: It is represented by the attributes of an object. It also reflects the properties of an object.
+   -Behavior: It is represented by the methods of an object. It also reflects the response of an object to other objects.
+   -Identity: It gives a unique name to an object and enables one object to interact with other objects.
+
+*What is the self ?
+The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.
+
